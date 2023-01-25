@@ -1,0 +1,124 @@
+/* background Image styling*/
+body{
+    margin: 0 auto;
+}
+.background {
+    background-image: url('../images/banner/banner3.png');
+    margin: 0%;
+    padding: 0%;
+    border: none;
+    width: 96vw;
+    height: 115vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*back-text and btn styling*/
+.back-text {
+    margin-right: 3cm;
+    padding-top: 150px;
+    color: aliceblue;
+    font-family: sans-serif;
+    text-align: right;
+    font-size: 22px;
+}
+
+.des {
+    font-size: 15px;
+}
+
+.buttons1 {
+    width: 110px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn {
+    font-family: sans-serif;
+    color: blue;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+/*banner section styling*/
+.banner {
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 250px;
+    margin-right: 300px;
+}
+
+.per-img {
+    height: 500px;
+    width: auto;
+}
+
+.head1 {
+    font-size: 28px;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+/*Middle are*/
+.plan {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.icon-container {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 3cm;
+}
+
+/*gradian part*/
+.contact1 {
+    font-size: 35px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.watch {
+    margin-left: 50px;
+    padding-top: 65px;
+}
+.background3 {
+    background-image: url('watch.png');
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 60vh;
+    border-radius: 8px;
+    margin-left: 4cm;
+    margin-bottom: 35px;
+}
+/*footer area*/
+.foot-back {
+    background-color: black;
+    background-position: center;
+    width: 100%;
+    height: 40vh;
+    display: flex;
+}
+
+.contact {
+    font-size: 15px;
+    color: white;
+    font-family: sans-serif;
+    text-align: left;
+}
+
+.margin {
+    margin-left: 2in;
+    margin-right: 2in;
+}
+
+.foot-icon {
+    display: flex;
+    justify-content: inherit
+}
